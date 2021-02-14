@@ -77,18 +77,3 @@ data("oddbooks")
 corr <- round(cor(oddbooks), 1)
 ggcorrplot(corr)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
